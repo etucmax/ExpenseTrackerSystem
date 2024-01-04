@@ -1,0 +1,4 @@
+Salary§10000§Income
+Food§100§Expense
+Salary§1000§Income
+Transportation§50§Expense

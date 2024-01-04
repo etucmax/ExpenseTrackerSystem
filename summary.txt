@@ -1,0 +1,4 @@
+Total: Balance: 10850
+Income: 11000
+Expenses: 150
+-----------------
